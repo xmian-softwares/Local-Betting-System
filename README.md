@@ -103,7 +103,7 @@ Default admin credentials depend on the SQL file.
 ---
 
 ##  Author
-**Built solo by:** *[Milkias Amanuel Arefaine]*  
+**Built solo by:** *Milkias Amanuel Arefaine*  
 **Role:** Full-stack Student Developer  
 
 ---
