@@ -1,6 +1,6 @@
 # LOCAL BETTING SYSTEM
 
-## 📌 Project Overview
+##  Project Overview
 **EXPECT BETTING** is a PHP & MySQL–based web betting system developed **solo** as a backend-focused project.  
 The system allows users to place **single and multiple bets**, while administrators manage results, permissions, and system income through a dedicated admin panel.
 
@@ -8,7 +8,7 @@ This project demonstrates real-world concepts such as authentication, role-based
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 👤 User Features
 - User login system
@@ -29,39 +29,7 @@ This project demonstrates real-world concepts such as authentication, role-based
 
 ---
 
-## 🧱 System Architecture
-
-EXPECT BETTING/
-│
-├── Betting/ # User-side application
-│ ├── index.php # Entry point
-│ ├── login.php # User login
-│ ├── Main.php # User dashboard
-│ ├── chooser.php # Bet selection
-│ ├── confirm.php # Bet confirmation
-│ ├── Indv.php # Single betting logic
-│ ├── mult.php # Multiple betting logic
-│ ├── results.php # Display results
-│ ├── error.php # Error handling
-│ └── assets (images) # UI images
-│
-├── Betting Special/ # Admin panel
-│ ├── index.php # Admin login
-│ ├── main.php # Admin dashboard
-│ ├── manage_admin.php # Admin management
-│ ├── perm.php # Permissions
-│ ├── Win.php # Winning bets
-│ ├── Lose.php # Losing bets
-│ ├── income.php # Income tracking
-│ ├── rst*.php # System reset scripts
-│ └── rmv.php # Record removal
-│
-└── betting.sql # Database structure & data
-
-
----
-
-## 🗄 Database
+##  Database
 - Database: **MySQL**
 - File provided: `betting.sql`
 - Contains:
@@ -72,10 +40,10 @@ EXPECT BETTING/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Requirements
-- XAMPP / WAMP / LAMP
+- XAMPP
 - PHP **7.3.3 or higher**
 - MySQL
 - Web browser
@@ -102,7 +70,7 @@ http://localhost/EXPECT BETTING/Betting Special/
 
 ---
 
-## 🧪 Technologies Used
+##  Technologies Used
 - **PHP** – backend logic
 - **MySQL** – database
 - **HTML / CSS** – frontend
@@ -111,7 +79,7 @@ http://localhost/EXPECT BETTING/Betting Special/
 
 ---
 
-## 🎯 Concepts Demonstrated
+##  Concepts Demonstrated
 - Authentication & authorization
 - Role-based access control
 - Database CRUD operations
@@ -121,7 +89,7 @@ http://localhost/EXPECT BETTING/Betting Special/
 
 ---
 
-## ⚠️ Notes & Limitations
+##  Notes & Limitations
 - Passwords may not be hashed (educational project)
 - No advanced security hardening
 - UI is functional but minimal
@@ -129,7 +97,7 @@ http://localhost/EXPECT BETTING/Betting Special/
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 - Password hashing (`password_hash`)
 - Prepared SQL statements (PDO / MySQLi)
 - Improved UI/UX
@@ -138,12 +106,12 @@ http://localhost/EXPECT BETTING/Betting Special/
 
 ---
 
-## 👨‍💻 Author
-**Built solo by:** *[Your Name]*  
-**Role:** Backend / Full-stack Student Developer  
+##  Author
+**Built solo by:** *[milkias Amanuel Arefaine]*  
+**Role:** Full-stack Student Developer  
 
 ---
 
-## 📜 License
+##  License
 This project is for **educational purposes only**.  
 Not intended for real-money or commercial betting use.
