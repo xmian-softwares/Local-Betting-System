@@ -59,14 +59,10 @@ htdocs/ (for XAMPP)
 5. Create a database (e.g. `betting`)
 6. Import `betting.sql`
 7. Open the project in browser:
-http://localhost/EXPECT BETTING/Betting/
 
 
-### Admin Panel
-http://localhost/EXPECT BETTING/Betting Special/
-
-
-(Default admin credentials depend on the SQL file.)
+### Admin Panel 
+Default admin credentials depend on the SQL file.
 
 ---
 
