@@ -107,7 +107,7 @@ http://localhost/EXPECT BETTING/Betting Special/
 ---
 
 ##  Author
-**Built solo by:** *[milkias Amanuel Arefaine]*  
+**Built solo by:** *[Milkias Amanuel Arefaine]*  
 **Role:** Full-stack Student Developer  
 
 ---
